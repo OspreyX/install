@@ -1,0 +1,10 @@
+- git: {local-name: kingfisher_bringup, uri: 'https://github.com/kf/kingfisher_bringup.git',
+    version: hydro-devel}
+- git: {local-name: kingfisher_msgs, uri: 'https://github.com/kf/kingfisher_msgs.git',
+    version: hydro-devel}
+- git: {local-name: robot_upstart, uri: 'https://github.com/clearpathrobotics/robot_upstart.git',
+    version: hydro-devel}
+- git: {local-name: um6, uri: 'https://github.com/clearpathrobotics/um6.git',
+    version: hydro-devel}
+- git: {local-name: enu, uri: 'https://github.com/clearpathrobotics/enu.git',
+    version: hydro}
