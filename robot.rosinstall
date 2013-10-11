@@ -8,6 +8,8 @@
     version: hydro-devel}
 - git: {local-name: um6, uri: 'https://github.com/clearpathrobotics/um6.git',
     version: hydro-devel}
+- git: {local-name: imu_compass, uri: 'https://github.com/clearpathrobotics/imu_compass.git',
+    version: master}
 - git: {local-name: enu, uri: 'https://github.com/clearpathrobotics/enu.git',
     version: hydro}
 - git: {local-name: serial, uri: 'https://github.com/clearpathrobotics/serial.git',
