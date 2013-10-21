@@ -14,8 +14,6 @@
     version: hydro}
 - git: {local-name: serial, uri: 'https://github.com/clearpathrobotics/serial.git',
     version: master}
-- git: {local-name: rosserial, uri: 'https://github.com/clearpathrobotics/rosserial.git',
-    version: hydro-devel}
 - git: {local-name: nmea_comms, uri: 'https://github.com/clearpathrobotics/nmea_comms.git',
     version: hydro-devel}
 - git: {local-name: nmea_navsat_driver, uri: 'https://github.com/ros-drivers/nmea_navsat_driver.git',
