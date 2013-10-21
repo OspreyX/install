@@ -1,8 +1,6 @@
-- git: {local-name: kingfisher_bringup, uri: 'https://github.com/kf/kingfisher_bringup.git',
+- git: {local-name: kingfisher, uri: 'https://github.com/kf/kingfisher.git',
     version: hydro-devel}
-- git: {local-name: kingfisher_msgs, uri: 'https://github.com/kf/kingfisher_msgs.git',
-    version: hydro-devel}
-- git: {local-name: kingfisher_description, uri: 'https://github.com/kf/kingfisher_description.git',
+- git: {local-name: kingfisher_robot, uri: 'https://github.com/kf/kingfisher_robot.git',
     version: hydro-devel}
 - git: {local-name: robot_upstart, uri: 'https://github.com/clearpathrobotics/robot_upstart.git',
     version: hydro-devel}
@@ -10,9 +8,15 @@
     version: hydro-devel}
 - git: {local-name: imu_compass, uri: 'https://github.com/clearpathrobotics/imu_compass.git',
     version: master}
+- git: {local-name: declination, uri: 'https://github.com/clearpathrobotics/declination.git',
+    version: master}
 - git: {local-name: enu, uri: 'https://github.com/clearpathrobotics/enu.git',
     version: hydro}
 - git: {local-name: serial, uri: 'https://github.com/clearpathrobotics/serial.git',
     version: master}
 - git: {local-name: rosserial, uri: 'https://github.com/clearpathrobotics/rosserial.git',
+    version: hydro-devel}
+- git: {local-name: nmea_comms, uri: 'https://github.com/clearpathrobotics/nmea_comms.git',
+    version: hydro-devel}
+- git: {local-name: nmea_navsat_driver, uri: 'https://github.com/ros-drivers/nmea_navsat_driver.git',
     version: hydro-devel}
