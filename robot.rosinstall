@@ -18,3 +18,5 @@
     version: hydro-devel}
 - git: {local-name: nmea_navsat_driver, uri: 'https://github.com/ros-drivers/nmea_navsat_driver.git',
     version: hydro-devel}
+- git: {local-name: wireless, uri: 'https://github.com/clearpathrobotics/wireless.git',
+    version: master}
